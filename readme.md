@@ -32,11 +32,5 @@ Alors, en utilisant la parametrisation - il va prendre chaque url du fichier tex
 et il va executer comme un cycle.
 Ici, j'ai utilisé la bibliotheque requests pour créer les test API pour avoir la response comme status code.
 
-
-
-Copier le code source du projet TypeScript à analyser dans le répertoire "entities".
-Ouvrir une invite de commande et se placer à la racine du répertoire du projet.
-Exécuter la commande "ts-node ts2famix.ts". Si elle ne fonctionne pas ou donne des erreurs, exécuter les commandes "tsc ts2famix.ts" et "node ts2famix.js". La première commande permet de compiler le code TypeScript et de générer du code JavaScript (fichier à extension "js"). La deuxième permet d'exécuter le code JavaScript se trouvant dans le fichier en paramètre. Le coeur de notre outil se trouve dans le fichier "ts2famix.ts".
-Un fichier "FAMIXModel.mse" sera généré à la racine du répertoire du projet. Il contient le métamodèle correspondant au projet TypeScript fourni en entrée.
 Améliorations futures
 Je vais retourner a ce projet pour améliorer cette version.
