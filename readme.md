@@ -1,7 +1,7 @@
 
-### Ce projet est fait par Tatsiana :blush: dans le cadre du cours d'Automatisation 2.
+### Ce projet est fait par Tatsiana :blush: dans le cadre du cours d'Automatisation 2.:heart:
 
-**Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).**
+## _Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 )._
 
 Principalement il y a huit (08) fonctionnalités.
 
@@ -15,7 +15,9 @@ Pour chaque fonctiommalité :
 Ainsi, dans le file: test_Exigence_08_passer_commande.py on créer la Class, et on appelle les fonctions deja créés.
 
 ***Procédure d'utilisation***
-Lancer le tests avec : pytest -s -v [nom de test]
+
+Lancer le tests avec : 
+``` pytest -s -v [nom de test] ```
 > Remarque : Pour prouver, pour chaque fonctionnalitée on va le screenshoot avec le nom du numero d'exigence.
 
 Aussi, j'ai remarqué que on utilise souvent les 3 pages: home page, register page et login page.
