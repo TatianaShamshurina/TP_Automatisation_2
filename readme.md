@@ -1,6 +1,6 @@
 
 ### Ce projet est fait par Tatsiana dans le cadre du cours d"Automatisation 2.
-![The+only way to make great software is by working with great people](https://img.shields.io/badge/-Ce projet est fait par Tatsiana dans le cadre du cours d"Automatisation 2-dbfff5?style=for-the-badge&)
+![The+only way to make great software is by working with great people](https://img.shields.io/badge/-Ce_projet_est fait par Tatsiana dans le cadre du cours d"Automatisation 2-dbfff5?style=for-the-badge&)
 ## Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).
 
 Principalement il y a huit (08) fonctionnalités.
