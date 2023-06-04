@@ -1,6 +1,5 @@
 
-### Ce projet est fait par Tatsiana dans le cadre du cours d"Automatisation 2.
-![The+only way to make great software is by working with great people](https://img.shields.io/badge/-Ce_projet_est fait par Tatsiana dans le cadre du cours d"Automatisation 2-dbfff5?style=for-the-badge&)
+## Ce projet est fait par Tatsiana dans le cadre du cours d"Automatisation 2.
 ## Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).
 
 Principalement il y a huit (08) fonctionnalités.
@@ -31,5 +30,6 @@ Alors, en utilisant la parametrisation - il va prendre chaque url du fichier tex
 et il va executer comme un cycle.
 Ici, j'ai utilisé la bibliotheque requests pour créer les test API pour avoir la response comme status code.
 
-Améliorations futures
+## Améliorations futures
+![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures:)
 Je vais retourner a ce projet pour améliorer cette version.
