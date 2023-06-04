@@ -31,4 +31,5 @@ Alors, j'ai decidé de creer un test automatisé pour verifier si ces 3 pages s'
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures:)
-Évidement, je vais retourner à ce projet pour améliorer cette version.
+
+## _Évidement, je vais retourner à ce projet pour améliorer cette version._
