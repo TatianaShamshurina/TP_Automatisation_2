@@ -8,12 +8,12 @@ Principalement, il y a huit (08) fonctionnalités.
 
 Pour chaque fonctiommalité :
 
-1. Créer python file exigence_[numéro de fonctionnalité]_steps.py
-- On mantionne dans ce file les préconditions (si' il y en a)
-- Créer la class
-- Créer des fonctions pour effectuer chaque step
-2. Créer le file python pour effectuer pytest dans lequel on import le file deja crée (par ex: on créer le file: test_Exigence_08_passer_commande.py, et on importe exigence_08_steps.py).
-Ainsi, dans le file: test_Exigence_08_passer_commande.py on créer la Class, et on appelle les fonctions deja créés.
+> 1. Créer python file exigence_[numéro de fonctionnalité]_steps.py
+> - On mantionne dans ce file les préconditions (si' il y en a)
+> - Créer la class
+> - Créer des fonctions pour effectuer chaque step
+> 2. Créer le file python pour effectuer pytest dans lequel on import le file deja crée (par ex: on créer le file: test_Exigence_08_passer_commande.py, et on importe exigence_08_steps.py).
+ > Ainsi, dans le file: test_Exigence_08_passer_commande.py on créer la Class, et on appelle les fonctions deja créés.
 
 ***Procédure d'utilisation***
 
