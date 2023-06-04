@@ -16,7 +16,7 @@ Ainsi, dans le file: test_Exigence_08_passer_commande.py on créer la Class, et 
 
 # Procédure d'utilisation
 Lancer le tests avec : pytest -s -v [nom de test]
-Remarque : Pour prouver, pour chaque fonctionnalitée on va le screenshoot avec le nom du numero d'exigence.
+# Remarque : Pour prouver, pour chaque fonctionnalitée on va le screenshoot avec le nom du numero d'exigence.
 
 Aussi, j'ai remarqué que on utilise souvent les 3 pages: home page, register page et login page.
 Alors, j'ai decidé de creer un test automatisé pour verifier si ces 3 pages s'ouvrent correctement, c'est-a-dire - un health-check pour 3 pages.
