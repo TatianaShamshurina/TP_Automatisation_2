@@ -1,6 +1,7 @@
 
 ## Ce projet est fait par Tatsiana dans le cadre du cours d"Automatisation 2.
-## Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).
+
+# Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).
 
 Principalement il y a huit (08) fonctionnalités.
 
@@ -13,7 +14,7 @@ Pour chaque fonctiommalité :
 2. Créer le file python pour effectuer pytest dans lequel on import le file deja crée (par ex: on créer le file: test_Exigence_08_passer_commande.py, et on importe exigence_08_steps.py).
 Ainsi, dans le file: test_Exigence_08_passer_commande.py on créer la Class, et on appelle les fonctions deja créés.
 
-## Procédure d'utilisation
+# Procédure d'utilisation
 Lancer le tests avec : pytest -s -v [nom de test]
 Remarque : Pour prouver, pour chaque fonctionnalitée on va le screenshoot avec le nom du numero d'exigence.
 
@@ -25,7 +26,7 @@ J'ai la parametrisé et je demande de prendre une parametre - file verification_
 Alors, en utilisant la parametrisation - il va prendre chaque url du fichier text et il va l'executer comme un cycle.
 Ici, j'ai utilisé la bibliotheque requests pour créer les test API pour avoir la response de status code.
 
-## Améliorations futures
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures:)
 
 Je vais retourner a ce projet pour améliorer cette version.
