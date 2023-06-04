@@ -24,10 +24,10 @@ Lancer le tests avec :
 :fire: Aussi, j'ai remarqué que on utilise souvent les 3 pages: home page, register page et login page.
 Alors, j'ai decidé de creer un test automatisé pour verifier si ces 3 pages s'ouvrent correctement, c'est-a-dire - un health-check pour 3 pages.
 
-Dans le file: test_link_open_requests_healty_check.py, j'ai crée une class TestPages, ou j'ai crée la fonctionne pour ouvrir les pages. 
-J'ai la parametrisé et je demande de prendre une parametre - file verification_urls.txt, dans lequels j'ai stocké les url de 3 pages.
-Alors, en utilisant la parametrisation - il va prendre chaque url du fichier text et il va l'executer comme un cycle.
-Ici, j'ai utilisé la bibliotheque requests pour créer les test API pour avoir la response de status code.
+> Dans le file: test_link_open_requests_healty_check.py, j'ai crée une class TestPages, ou j'ai crée la fonctionne pour ouvrir les pages. 
+> J'ai la parametrisé et je demande de prendre une parametre - file verification_urls.txt, dans lequels j'ai stocké les url de 3 pages.
+> Alors, en utilisant la parametrisation - il va prendre chaque url du fichier text et il va l'executer comme un cycle.
+> Ici, j'ai utilisé la bibliotheque requests pour créer les test API pour avoir la response de status code.
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures:)
