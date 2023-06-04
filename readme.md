@@ -1,7 +1,7 @@
 
 ### Ce projet est fait par Tatsiana dans le cadre du cours d'Automatisation 2.
 
-***Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).***
+**Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).**
 
 Principalement il y a huit (08) fonctionnalités.
 
