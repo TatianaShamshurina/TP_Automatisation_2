@@ -1,7 +1,7 @@
 
-## _Ce projet est fait par Tatsiana :blush: dans le cadre du cours d'Automatisation 2_ :heart:
+## _Ce projet est fait par Tatsiana 
 
-***Le but est - développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).***
+***Le but: développer les cas automatisés pour couvrir certains exigences en langage Python (Selenium 4 ).***
 ```sh
 Principalement, il y a huit (08) fonctionnalités.
 ```
@@ -31,5 +31,3 @@ Alors, j'ai decidé de creer un test automatisé pour verifier si ces 3 pages s'
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures:)
-
-## _Évidement, je vais retourner à ce projet pour améliorer cette version._
