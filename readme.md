@@ -30,4 +30,4 @@ Alors, j'ai decidé de creer un test automatisé pour verifier si ces 3 pages s'
 > Ici, j'ai utilisé la bibliotheque requests pour créer les test API pour avoir la response de status code.
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures:)
+![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Améliorations+futures)
